@@ -35,7 +35,7 @@ const Contact = () => {
                 <li>
                   <span className="name">Call:</span>
                   <p>
-                    <a className="line_effect" href="tel:0713723353" tel>
+                    <a className="line_effect" href="tel:0713723353" >
                       + (254) 713 723 353
                     </a>
                   </p>
