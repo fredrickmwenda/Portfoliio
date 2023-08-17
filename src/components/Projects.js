@@ -75,7 +75,7 @@ const Projects = () => {
                         >
                           <div
                             className="tab-content"
-                            onClick={() => handleModal(project.id)}
+                            onClick={() => window.open(project.modalDetails[0].link, '_blank')}
                           >
                             <img
                               src={project.image}
@@ -102,7 +102,7 @@ const Projects = () => {
                         >
                           <div
                             className="tab-content"
-                            onClick={() => handleModal(project.id)}
+                            onClick={() => window.open(project.modalDetails[0].link, '_blank')}
                           >
                             <img
                               src={project.image}
@@ -130,7 +130,7 @@ const Projects = () => {
                         >
                           <div
                             className="tab-content"
-                            onClick={() => handleModal(project.id)}
+                            onClick={() => window.open(project.modalDetails[0].link, '_blank')}
                           >
                             <img
                               src={project.image}
@@ -157,7 +157,7 @@ const Projects = () => {
                         >
                           <div
                             className="tab-content"
-                            onClick={() => handleModal(project.id)}
+                            onClick={() => window.open(project.modalDetails[0].link, '_blank')}
                           >
                             <img
                               src={project.image}
@@ -185,7 +185,7 @@ const Projects = () => {
                         >
                           <div
                             className="tab-content"
-                            onClick={() => handleModal(project.id)}
+                            onClick={() => window.open(project.modalDetails[0].link, '_blank')}
                           >
                             <img
                               src={project.image}
@@ -212,7 +212,7 @@ const Projects = () => {
                         >
                           <div
                             className="tab-content"
-                            onClick={() => handleModal(project.id)}
+                            onClick={() => window.open(project.modalDetails[0].link, '_blank')}
                           >
                             <img
                               src={project.image}
