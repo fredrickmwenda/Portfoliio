@@ -136,13 +136,13 @@ export const projects = [
           id:9,
           title: "Yellow Cab Drivers",
           subtitle: "Android Native",
-          image: "img/portfolio/whitedriveri.png",
+          image: "img/portfolio/yellowcabs.png",
           delayAnimation: "0",
           modalDetails: [
             {
               project: "Android",
               language: "Android, Firebase",
-              image: "img/portfolio/whitedriveri.png",
+              image: "img/portfolio/yellowcabs.png",
               link: "ttps://play.google.com/store/apps/details?id=com.kenyalab.yellowcabclient&hl=en_US&gl=US",
               description: "An uber look alike project",
             },
@@ -173,13 +173,13 @@ export const projects = [
           id:11,
           title: "Yellow cab Client",
           subtitle: "Flutter & MQTT Client",
-          image: "img/portfolio/whiteclient.png",
+          image: "img/portfolio/yellowcabs.png",
           delayAnimation: "0",
           modalDetails: [
             {
               project: "Flutter",
               language: "Flutter, Firebase, Solidity",
-              image: "./whiteclient.png",
+              image: "img/portfolio/yellowcabs.png",
               link: "https://play.google.com/store/apps/details?id=com.kenyalab.yellowcabclient&hl=en_US&gl=US",
               description: "An uber look alike project",
             },
@@ -195,7 +195,7 @@ export const projects = [
             {
               project: "Flutter",
               language: "Flutter, Firebase, Solidity",
-              image: "./cryptonews.jpg",
+              image: "img/portfolio/cryptonews.jpg",
               link: "https://github.com/freddiefreddy/Bomax-Wallet.git",
               description: "Cryptocurrency Wallet.",
             },
