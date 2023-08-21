@@ -29,7 +29,7 @@ const About = () => {
             </div>
             <div className="short">
               <div className="orido_tm_boxed_button">
-                <a href="files/MuriungiResume.pdf" download="resume.pdf">
+                <a href="files/FredrickResume.pdf" download="resume.pdf">
                 {/* <a href="img/cv/1.jpg" download> */}
                   Download CV{" "}
                   {/* <img className="svg" src="img/svg/paper.svg" alt="" /> */}

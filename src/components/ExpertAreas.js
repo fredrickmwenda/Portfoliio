@@ -97,7 +97,7 @@ const ExpertAreas = () => {
                 </div>
                 <div className="orido_tm_boxed_button">
 
-                  <a href="files/MuriungiResume.pdf" download="resume.pdf">
+                  <a href="files/FredrickResume.pdf" download="resume.pdf">
                     My Resume{" "}
                     {/* <img className="svg" src="img/svg/paper.svg" alt="" /> */}
                   </a>
