@@ -118,13 +118,13 @@ export const projects = [
           id: 7,
           title: "QOrder",
           subtitle: "React JS",
-          image: "img/portfolio/kamunde.png",
+          image: "img/portfolio/qorder.png",
           delayAnimation: "0",
           modalDetails: [
             {
               project: "React",
               language: "React Js",
-              image: "img/portfolio/kamunde.png",
+              image: "img/portfolio/qorder.png",
               link: "https://qorder.web.app/",
               description:"Restaurant management website and ordering based on scanned qrcodes matching specified restaurant",
             },
