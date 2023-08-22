@@ -20,7 +20,8 @@ const Contact = () => {
             <div className="text">
               <h3>{`Let's`} work together</h3>
               <p>
-              Looking to supercharge your web and app development? My skills as a Fullstack Developer are here to turn your vision into reality. Join hands with me and witness the fusion of creativity and functionality in every line of code
+              Looking to supercharge your web and app development? My skills as a Fullstack Developer are here to turn your vision into reality. Join hands with me and witness the fusion of creativity and functionality turn your idea into reality.
+              Reachout for a nicely crafted & market friendly quotation
               </p>
             </div>
             <div className="orido_tm_boxed_button">
